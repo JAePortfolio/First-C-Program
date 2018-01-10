@@ -1,0 +1,7 @@
+C:\Users\John-DEV STATION\Documents\Projects\Windows\First c#\Number Guesser\bin\Debug\Number Guesser.exe.config
+C:\Users\John-DEV STATION\Documents\Projects\Windows\First c#\Number Guesser\bin\Debug\Number Guesser.exe
+C:\Users\John-DEV STATION\Documents\Projects\Windows\First c#\Number Guesser\bin\Debug\Number Guesser.pdb
+C:\Users\John-DEV STATION\Documents\Projects\Windows\First c#\Number Guesser\obj\Debug\Number Guesser.csprojResolveAssemblyReference.cache
+C:\Users\John-DEV STATION\Documents\Projects\Windows\First c#\Number Guesser\obj\Debug\Number Guesser.csproj.CoreCompileInputs.cache
+C:\Users\John-DEV STATION\Documents\Projects\Windows\First c#\Number Guesser\obj\Debug\Number Guesser.exe
+C:\Users\John-DEV STATION\Documents\Projects\Windows\First c#\Number Guesser\obj\Debug\Number Guesser.pdb
